@@ -123,7 +123,7 @@ reminders.csv
 Columns:
 | Message | Reminder Time | Status |
 |----------|----------------|--------|
-| Good Morning | 2025-10-28 07:00:00 | Pending |
+| Good Morning | 27-10-2025 07:00 AM | Pending |
 
 ---
 
